@@ -1,7 +1,6 @@
-# testing-web-hosting
+# Testing Web Hosting
 
-<h1>💖☕Vist to this website: </h1>
--coffee shop
-<span>https://kimmynova.github.io/testing-web-hosting/coffee_shop/COFFEE.html</span>
--food shop
-<span>https://kimmynova.github.io/testing-web-hosting/market/market.html</span>
+<h1>💖☕ Visit this website:</h1>
+
+- Coffee shop: [Coffee Shop Website](https://kimmynova.github.io/testing-web-hosting/coffee_shop/COFFEE.html)
+- Food shop: [Food Shop Website](https://kimmynova.github.io/testing-web-hosting/market/market.html)
