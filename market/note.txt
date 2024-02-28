@@ -1,0 +1,12 @@
+https://bennettfeely.com/clippy/
+
+
+=====================================
+use for swiper screen on js
+https://swiperjs.com/get-started 
+
+=====================================
+https://swiperjs.com/demos#responsive-breakpoints
+
+==============================================
+https://cdnjs.com/libraries/lightgallery-js ===== link for wirte the scrip on html
